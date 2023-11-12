@@ -1,20 +1,15 @@
 [
     {
-        "model": "gpt-4",
-        "api_key": "<your OpenAI API key here>"
+        "model": "gpt-4-1106-preview",
+        "api_key": "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"
     },
     {
-        "model": "gpt-4",
-        "api_key": "<your Azure OpenAI API key here>",
-        "api_base": "<your Azure OpenAI API base here>",
-        "api_type": "azure",
-        "api_version": "2023-07-01-preview"
+        "model": "gpt-4-1106-preview",
+        "api_key": "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",
+
     },
     {
-        "model": "gpt-4-32k",
-        "api_key": "<your Azure OpenAI API key here>",
-        "api_base": "<your Azure OpenAI API base here>",
-        "api_type": "azure",
-        "api_version": "2023-07-01-preview"
-    }
+        "model": "gpt-4-1106-preview",
+        "api_key": "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",
+}
 ]
